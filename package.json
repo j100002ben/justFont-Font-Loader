@@ -1,0 +1,35 @@
+{
+  "name": "justFont-Font-Loader",
+  "title": "justFont Font Loader",
+  "description": "",
+  "version": "2.2.0",
+  "homepage": "http://www.justfont.com/",
+  "author": {
+    "name": "Benjamin Peng"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:j100002ben/justFont-Font-Loader.git"
+  },
+  "bugs": {
+    "url": "http://www.justfont.com/index/contact/"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-compare-size": "~0.4.0-rc.3",
+    "grunt-update-submodules": "~0.2.0",
+    "grunt-contrib-watch": "~0.3.1",
+    "grunt-contrib-jshint": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt": "~0.4.1",
+    "gzip-js": "~0.3.1",
+    "testswarm": "~1.1.0",
+    "archiver": "~0.4.5"
+  },
+  "keywords": []
+}
